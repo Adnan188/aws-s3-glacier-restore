@@ -107,6 +107,3 @@ Object s3://test-restore-bucket/archives/cars/GlacierImageArchive_2017_10-000000
 Object s3://test-restore-bucket/archives/cars/GlacierImageArchive_2017_10-00000001-r-00097 is in Glacier and not being restored
 Restored count: 3/10
 ```
-### License
-
-Distributed under the MIT license. See `LICENSE` for more information.
